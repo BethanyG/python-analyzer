@@ -59,8 +59,7 @@ bad-names=x,
           b,
           j,
           o,
-          z,
-          _
+          z
 
 # Good variable names which should always be accepted, separated by a comma.
 good-names=main,
